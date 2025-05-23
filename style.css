@@ -1,0 +1,24 @@
+/* General Image Styling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+
+/* Specific Image Classes */
+.hero-image {
+  max-width: 300px;
+}
+
+.loan-image,
+.contact-image {
+  max-width: 250px;
+}
+
+/* Feature Icons */
+.feature-box img {
+  width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
+}
